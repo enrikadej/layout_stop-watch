@@ -1,0 +1,2 @@
+.page__round{position:absolute;top:calc(50% - 30px);left:calc(50% - 30px);height:60px;width:60px;border-radius:50%;background-color:#82d19b}.page__minute{height:450px;background-color:#82d19b;animation:rotate 3600s linear infinite}.page__minute,.page__second{position:absolute;top:50%;left:calc(50% - 15px);width:30px;border-radius:15px;transform-origin:top}.page__second{height:400px;background-color:#b2eb51;animation:rotate 60s linear infinite}@keyframes rotate{0%{transform:rotate(180deg)}to{transform:rotate(540deg)}}
+/*# sourceMappingURL=main.c530b870.css.map */
